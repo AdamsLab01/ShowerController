@@ -1,5 +1,4 @@
 ## generic files to ignore
-video/**
 media/**
 *~
 *.lock
