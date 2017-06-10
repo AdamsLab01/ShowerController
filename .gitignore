@@ -5,3 +5,4 @@ media/**
 *.DS_Store
 *.swp
 *.out
+Thumbs.db
