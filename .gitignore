@@ -1,7 +1,8 @@
 ## generic files to ignore
+video/**
+media/**
 *~
 *.lock
 *.DS_Store
 *.swp
 *.out
-Thumbs.db
