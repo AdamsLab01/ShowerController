@@ -69,7 +69,6 @@ void loop() {
   //Serial.println(state); // For testing, comment out in production.
 
   switch (state) {
-
     case S_ready:
       F_ready();
       break;
@@ -170,7 +169,8 @@ void F_shower() {
   }
 
   if (digitalRead(StopSW) == LOW) {
-    CurrentMillis = millis();
+    digitalWrite(Buzzer, LOW); // Make sure the buzzer is turned off.
+    CurrentMillis = millis(); // Set the clock.
     state = S_pause;
   }
 }
