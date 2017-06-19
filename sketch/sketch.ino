@@ -2,22 +2,6 @@
 This code was written to control a solenoid valve in order to manage the amount of time our show could be used.
 
 More info can be found here: https://youtu.be/1Lek2_mfyv4 and here: https://adambyers.com/2017/05/shower-controller-manage-shower-length/
-
-All code (except external libraries and third party code) is published under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
-
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2017 Adam Byers <adam@adambyers.com>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
 */
 
 //// STATES ////
